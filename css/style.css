@@ -1,0 +1,17 @@
+body {
+  background-color: cornsilk;
+}
+a {
+  color: blue;
+  text-decoration: none;
+}
+a:hover {
+  cursor: pointer;
+  text-decoration: underline;
+  color: blue;
+}
+.active {
+  text-decoration: none;
+  color: black;
+  font-size: large;
+}
